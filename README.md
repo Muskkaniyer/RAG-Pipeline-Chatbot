@@ -44,7 +44,9 @@ This project solves that by automating **document ingestion + retrieval + contex
 ---
 
 ## 🖼️ Workflow Diagram  
-![Architecture Diagram](./diagram.png) <!-- Replace with actual diagram path -->
+<img width="512" height="193" alt="vector DB image" src="https://github.com/user-attachments/assets/da33a1be-8cb9-4b12-9810-ee750ed0a28f" />
+<img width="512" height="316" alt="Workflow wireframe RAG" src="https://github.com/user-attachments/assets/2071c942-672a-4fb2-9423-29817da50270" />
+
 
 ---
 
