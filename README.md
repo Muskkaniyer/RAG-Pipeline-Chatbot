@@ -84,9 +84,9 @@ This project solves that by automating **document ingestion + retrieval + contex
 **Muskkan Iyer**  
 AI Product Analyst | Data Enthusiast | Automation Builder  
 
-- 🌐 [Portfolio](#)  
-- 💼 [LinkedIn](#)  
-- 📧 Contact: [your.email@example.com](mailto:your.email@example.com)  
+- 🌐 [Portfolio](https://github.com/Muskkaniyer)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/muskkaniyer/)  
+- 📧 Contact: [your.email@example.com](mailto:muskkaniyer@gmail.com)  
 
 ---
 
