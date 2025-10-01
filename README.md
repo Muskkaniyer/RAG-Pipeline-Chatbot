@@ -14,9 +14,6 @@ This project implements a **Retrieval-Augmented Generation (RAG) Pipeline** usin
 - Store them in a vector database (Pinecone)  
 - Answer user queries with contextually accurate responses  
 
-👉 **Live Workflow:** [View on n8n](https://muskkan.app.n8n.cloud/workflow/BE5u3kPdnVbWgjp9)  
-👉 **Project Documentation:** [View on Gamma](https://gamma.app/docs/RAG-Pipeline-Chatbot-z59ter2o12r2qy9?mode=doc)  
-
 ---
 
 ## 🎯 Problem Statement  
@@ -65,11 +62,6 @@ This project solves that by automating **document ingestion + retrieval + contex
 - 📉 Reduced dependency on manual FAQ maintenance  
 - 🤝 Usable for customer support, internal knowledge bases, or research  
 
----
-
-## 📽️ Demo  
-- 🎥 [Loom Video Walkthrough](#) <!-- Optional: add link if you record a demo -->
-- 🔗 [Live Workflow](https://muskkan.app.n8n.cloud/workflow/BE5u3kPdnVbWgjp9)  
 
 ---
 
@@ -81,7 +73,7 @@ This project solves that by automating **document ingestion + retrieval + contex
 
 ---
 
-## 🧑‍💻 Author  
+##  Author  
 **Muskkan Iyer**  
 AI Product Analyst | Data Enthusiast | Automation Builder  
 
