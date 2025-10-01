@@ -1,7 +1,8 @@
 # 🤖 RAG Pipeline & Chatbot  
 *Automating Knowledge into Conversations with AI*  
 
-<img width="1642" height="517" alt="RAG   Chatbot image" src="https://github.com/user-attachments/assets/c1e673aa-78e4-4ad0-8f09-dea4f3e920b5" />
+<img width="1705" height="621" alt="RAG Pipeline   Chatbot image" src="https://github.com/user-attachments/assets/a27583c1-762a-4b0a-8089-6aaf3ad486e8" />
+
 <!-- Replace with actual screenshot path -->
 
 ---
