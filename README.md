@@ -86,7 +86,7 @@ AI Product Analyst | Data Enthusiast | Automation Builder
 
 - 🌐 [Portfolio](https://github.com/Muskkaniyer)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/muskkaniyer/)  
-- 📧 Contact: [your.email@example.com](mailto:muskkaniyer@gmail.com)  
+- 📧 Contact: [Gmail](mailto:muskkaniyer@gmail.com)  
 
 ---
 
